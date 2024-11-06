@@ -1,0 +1,7 @@
+# prefix,country_code,region_code,city,postal
+160.191.20.0/23,BD,Dhaka (BD-13),Dhaka,1207
+160.191.20.0/24,BD,Dhaka (BD-13),Dhaka,1207
+160.191.21.0/24,BD,Dhaka (BD-13),Dhaka,1207
+2401:cf20:1000::/36,BD,Dhaka (BD-13),Dhaka,1207
+2401:cf20:2000::/36,BD,Dhaka (BD-13),Dhaka,1207
+2401:cf20:5000::/36,BD,Dhaka (BD-13),Dhaka,1207
